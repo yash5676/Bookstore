@@ -15,7 +15,7 @@
     "name":"Comedy Book",
     "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
     "price":20,
-    "category":"Free",
+    "category":"Comedy",
     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
   
 
@@ -26,7 +26,7 @@
     "name":"Sports Book",
     "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
     "price":50,
-    "category":"Sports",
+    "category":"Free",
     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
   
 

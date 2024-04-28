@@ -59,7 +59,47 @@
     "name":"Horror Book",
     "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
     "price":250,
-    "category":"Horror",
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
+  
+
+  },
+  {
+    "id":7,
+    "name":"Crime Book",
+    "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+    "price":300,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
+  
+
+  },
+  {
+    "id":8,
+    "name":"Thriller Book",
+    "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+    "price":70,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
+  
+
+  },
+  {
+    "id":9,
+    "name":"Drama Book",
+    "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+    "price":340,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
+  
+
+  },
+  {
+    "id":10,
+    "name":"Adventure Book",
+    "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. ",
+    "price":400,
+    "category":"Free",
     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713967318~exp=1713970918~hmac=4ccce919c3bdf7925675af28520ac2a425ae844dbe5f869b35483872ce5d760d&w=740"
   
 
